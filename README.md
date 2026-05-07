@@ -1,6 +1,6 @@
 # Peptide Absorbance Prediction
 
-Machine learning pipeline for predicting peptide absorbance values from amino acid sequence features. Developed as part of the **CASFER REU 2025** research program at Texas Tech University.
+Machine learning pipeline for predicting peptide absorbance values from amino acid sequence features. Developed as part of the **CASFER REU 2025** research program at Case Western Reserve University.
 
 ## Project Overview
 
@@ -76,4 +76,4 @@ The pipeline extracts the following feature categories from peptide sequences:
 
 ## Author
 
-Aarti Khatri — CASFER REU 2025, Texas Tech University
+Aarti Khatri — CASFER REU 2025, Case Western Reserve University
